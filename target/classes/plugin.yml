@@ -1,0 +1,8 @@
+name: hypixelstats
+version: 1.0
+main: dev.evang.hypixelstats.hypixelstats
+author: WebTax
+commands:
+  stats:
+    description: Gets the stats of a hypixel player.
+    usage: /stats [player]
